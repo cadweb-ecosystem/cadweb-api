@@ -26,11 +26,17 @@ Die API bildet die Grundlage für:
 cadweb-api/
 │
 ├── core/       # Config, Logging, Basisklassen
+
 ├── llm/        # LLM-Client, Registry
+
 ├── cad/        # CAD-Adapter, Registry
+
 ├── tools/      # Tool-Basis + Registry
+
 ├── agent/      # Agent-Framework + Workflows
+
 ├── io/         # Datei-IO
+
 └── utils/      # Hilfsfunktionen, Pfade
 
 
