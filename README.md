@@ -24,7 +24,9 @@ Die API bildet die Grundlage für:
 ## 📁 Projektstruktur
 
 cadweb-api/
+
 │
+
 ├── core/       # Config, Logging, Basisklassen
 
 ├── llm/        # LLM-Client, Registry
